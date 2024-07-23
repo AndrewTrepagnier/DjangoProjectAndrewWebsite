@@ -1,0 +1,1 @@
+web gunicorn DjangoProjectAndrewWebsite.wsgi.apllication --log-file -
